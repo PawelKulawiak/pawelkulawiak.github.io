@@ -1,0 +1,90 @@
+---
+title: "Lebenslauf"
+---
+
+## Berufliche Laufbahn
+
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+| ![](images/potsdam.png){width="60%"}                        | **Vertretung der W3-Professur**                                         | 04/2024 bis 09/2024 |
+|                                                             |                                                                         |                     |
+|                                                             | -   Forschungsmethoden und Diagnostik                                   |                     |
+|                                                             | -   Institut für Inklusionspädagogik                                    |                     |
+|                                                             | -   Universität Potsdam                                                 |                     |
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+| ![](images/potsdam.png){width="60%"}                        | **Wissenschaftlicher Mitarbeiter**                                      | Seit 03/2014        |
+|                                                             |                                                                         |                     |
+|                                                             | -   Forschungsmethoden und Diagnostik                                   |                     |
+|                                                             | -   Prof. Dr. Jürgen Wilbert                                            |                     |
+|                                                             | -   Institut für Inklusionspädagogik                                    |                     |
+|                                                             | -   Universität Potsdam                                                 |                     |
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+| ![](images/potsdam.png){width="60%"}                        | **Vertretung der W3-Professur**                                         | 04/2023 bis 09/2023 |
+|                                                             |                                                                         |                     |
+|                                                             | -   Inklusionspädagogische Schul- und Unterrichtsentwicklung            |                     |
+|                                                             | -   Institut für Inklusionspädagogik                                    |                     |
+|                                                             | -   Universität Potsdam                                                 |                     |
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+| ![](images/Oldenburg.svg){width="70%"}                      | **Vertretung der W2-Professur**                                         | 10/2023 bis 03/2023 |
+|                                                             |                                                                         |                     |
+|                                                             | -   Sonderpädagogischer Förderschwerpunkt Emotional-Soziale-Entwicklung |                     |
+|                                                             | -   Institut für Sonder- und Rehabilitationspädagogik                   |                     |
+|                                                             | -   Universität Oldenburg                                               |                     |
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+| ![](images/Köln.png){width="60%"}                           | **Wissenschaftlicher Mitarbeiter**                                      | 04/2020 bis 03/2022 |
+|                                                             |                                                                         |                     |
+|                                                             | -   Erziehungshilfe und sozial-emotionale Entwicklungsförderung         |                     |
+|                                                             | -   Prof. Dr. Thomas Hennemann                                          |                     |
+|                                                             | -   Department Heilpädagogik und Rehabilitation                         |                     |
+|                                                             | -   Universität zu Köln                                                 |                     |
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+| ![](images/DALL·E%202023-10-30%2017.48.23.png){width="60%"} | **Sozialpädagoge**                                                      | 04/2013 bis 02/2014 |
+|                                                             |                                                                         |                     |
+|                                                             | -   Betreutes Wohnen für psychisch kranke Menschen                      |                     |
+|                                                             | -   Förderkreis für seelische Gesundheit e.V. Berlin-Wedding            |                     |
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+| ![](images/divers.png){width="60%"}                         | **Gemeindepsychiatrische Eingliederungshilfe**                          | 2009 bis 2013       |
+|                                                             |                                                                         |                     |
+|                                                             | -   Träger gGmbH, Betreutes Wohnen, Berlin-Reinickendorf                |                     |
+|                                                             | -   Freundeskreis Integrative Dienste, Wohnheim, Berlin-Spandau         |                     |
+|                                                             |                                                                         |                     |
+|                                                             | **Ambulante Pflegehilfe für Personen mit Demenz**                       |                     |
+|                                                             |                                                                         |                     |
+|                                                             | -   Ambulanter Pflegedienst „Arche Noah", Berlin-Mitte                  |                     |
+|                                                             | -   Ambulanter Pflegedienst „AIDA", Berlin-Mitte                        |                     |
++-------------------------------------------------------------+-------------------------------------------------------------------------+---------------------+
+
+## Akademische Laufbahn
+
++:-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| ![](images/potsdam.png){width="80%"} | **Promotion im Fach Sonderpädagogik**                                                                                                                                                                                     | 2020    |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | *Soziale Inklusion von Schulkindern mit sonderpädagogischem Förderbedarf: Empirische und methodische Beiträge unter besonderer Berücksichtigung der soziometrischen Methoden und der internalisierenden Verhaltensweisen* |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | [➽ Link zur Lesefassung](https://www.researchgate.net/publication/338902666)                                                                                                                                              |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Betreuer & Gutachter:                                                                                                                                                                                                     |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Prof. Dr. Jürgen Wilbert -- Universität Potsdam                                                                                                                                                                           |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Gutachter:                                                                                                                                                                                                                |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Prof. Dr. Christian Huber -- Bergische Universität Wuppertal                                                                                                                                                              |         |
++--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| ![](images/ash.png){width="80%"}     | **Master of Arts**                                                                                                                                                                                                        | 2013    |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Praxisforschung in Sozialer Arbeit und Pädagogik                                                                                                                                                                          |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | *Empirische Querschnittstudie zum Zusammenhang von sportlicher Aktivität und dem Gesundheitszustand schizophren erkrankter Menschen*                                                                                      |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | [➽ Link zur Lesefassung](http://dx.doi.org/10.13140/RG.2.2.10934.27208)                                                                                                                                                   |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Betreuer: Prof. Dr. Bernd Kolleck                                                                                                                                                                                         |         |
++--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| ![](images/hu.png){width="80%"}      | **Bachelor of Arts**                                                                                                                                                                                                      | 2010    |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Kunst- und Bildgeschichte / Erziehungswissenschaften                                                                                                                                                                      |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | *Funktionen mittelalterlicher Musterbuchzeichnung untersucht an einem Beispiel des Berliner Kupferstichkabinetts*                                                                                                         |         |
+|                                      |                                                                                                                                                                                                                           |         |
+|                                      | Betreuer: PD Dr. Peter Seiler                                                                                                                                                                                             |         |
++--------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+

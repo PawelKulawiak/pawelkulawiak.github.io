@@ -1,0 +1,20 @@
+---
+title: "Kontakt"
+---
+
+📧 [kulawiak\@uni-potsdam.de](mailto:kulawiak@uni-potsdam.de)
+
+🏫 [Universität Potsdam](https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/kulawiak)
+
+```{r}
+#| echo: false
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=52.40735, lng=12.97531, popup=
+               "Universität Potsdam,
+             Institut für Inklusionspädagogik (Haus 31),
+             Karl-Liebknecht-Straße 24-25,
+             14476 Potsdam")
+```

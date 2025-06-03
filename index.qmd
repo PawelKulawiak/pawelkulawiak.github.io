@@ -1,0 +1,76 @@
+---
+title: Forschung
+bibliography: references.bib
+---
+
+## Forschungskonzept
+
+Die gemeinsame Beschulung aller Schüler:innen im Zuge der Gestaltung eines inklusiven Bildungssystems ist eine zentrale Herausforderung der pädagogischen Praxis. Mein genuines Forschungsinteresse gilt dementsprechend den ***Gelingensbedingungen einer inklusiven Schule*** und somit dem Thema der ***Förderung und Teilhabe*** aller Schüler:innen an ***akademischen sowie sozialen Prozessen***. Meine Forschung fokussiert sich dabei insbesondere auf die Zielgruppe der ***Kinder und Jugendlichen mit Verhaltensauffälligkeiten (internalisierend/externalisierend)*** sowie auf ***Schüler:innen mit Epilepsie***.
+
+Mit der Anwendung sowie Weiterentwicklung von Messmethoden, Forschungsdesigns und Analyseverfahren (qualitativ/quantitativ) bin ich um eine differenzierte Wahrnehmung (Messung/Diagnostik), Untersuchung und Analyse der inklusions- und sonderpädagogischen Praxis bemüht. Somit möchte ich die Güte wissenschaftlicher Erkenntnisprozesse im Beriech der inklusions- und sonderpädagogischen Forschung anhand innovativer Forschungs- und Messmethoden maximieren. Mittels empirischer und theoretischer Arbeiten leiste ich daher einen Beitrag zur Weiterentwicklung inklusionspädagogischer und sonderpädagogischer Praxis.
+
+## Aktuelle Forschungsprojekte
+
+::: panel-tabset
+### **Epilepsie in der Schule**
+
+[![](images/epiposter.png){fig-align="left"}](https://pawelkulawiak.github.io/site/images/epiposter.png)
+
+Psychosoziale Belastungen und eine eingeschränkte Lebensqualität können mit der Diagnose einer Epilepsie einhergehen [@petermann2007]. Bei Kindern und Jugendlichen ist die Diagnose daher ein Risiko für die schulische Entwicklung (akademisch, psychisch und sozial). Auf Ebene der Lehrkräfte können drei Faktoren als Determinanten des schulischen Wohlbefindens von Schüler:innen mit Epilepsie angesehen werden:
+
+1.  ***Einstellungen*** der Lehrkräfte gegenüber schulischer Inklusion von Lernenden mit Epilepsie,
+2.  die ***Selbstsicherheit*** der Lehrkräfte in der pädagogischen Arbeit mit Kindern und Jugendlichen mit Epilepsie und
+3.  das ***Fachwissen*** zum Krankheitsbild sowie zu den pädagogischen Bedürfnissen der Schüler:innen mit Epilepsie.
+
+In der inklusiven Schule können Lehrkräfte daher wichtige Bezugspersonen und Entwicklungsbegleiter für Schüler:innen mit Epilepsie sein, sofern sie sich hinreichend auf den schulischen Alltag mit Kindern und Jugendlichen mit Epilepsie vorbereitet fühlen (positive Einstellungen, fundiertes Fachwissen und Gefühle der Selbstsicherheit in der pädagogischen Arbeit mit Schüler:innen mit Epilepsie). Umfragen mit Lehrkräften verdeutlichen aber, dass Unsicherheiten, medizinisches Falschwissen und ungünstige Einstellungen zum Thema Epilepsie in Teilen vorhanden sind [@jones2018].
+
+In Zusammenarbeit mit dem [Epilepsiezentrum für Kinder und Jugendliche](https://www.klinikumwb.de/neuro-und-sozialpaediatrie-potsdam/epilepsiezentrum) (*Sozialpädiatrisches Zentrum, Klinikum Westbrandenburg, Potsdam*) ist die Evaluation einer Epilepsie-Fachberatung für Lehrkräfte geplant. Die Fortbildung der Lehrkräfte ist auf eine Stärkung der Selbstsicherheit und Abbau von ungünstigen Einstellungen durch die Vermittlung von Fachwissen ausgerichtet.
+
+**Projektpartner:innen**
+
+-   [Dr. med. Mona Dreesmann](https://www.evb-gesundheit.de/dr-med-mona-dreesmann) Klinikum Westbrandenburg, Potsdam
+-   [Dr. Nadine Poltz](https://www.uni-potsdam.de/de/inklusion/lernen/nadine-poltz) Universität Potsdam
+-   [Dr. Jannis Bosch](https://www.uni-muenster.de/EW/personen/boschjannis.shtml) Universität Münster
+
+**Erste Forschungsergebnisse**
+
+-   [➽ Befragung von Lehramtsstudierenden und Lehrkräften](https://pawelkulawiak.github.io/epi/)
+-   [➽ Befragung von Lehrkräften in Niedersachsen](https://kulawiak.shinyapps.io/episurvey/)
+-   [➽ Fragebogenentwicklung: Fragebogen für Lehrkräfte](https://pawelkulawiak.github.io/epifragebogen/)
+
+### **KALLI**
+
++:----------------------------------------------------------------------------------------------------------------------------------------------------------:+:------------------------------------------------------------------+
+| ***KALLI*** **ist ein Akronym und steht für *"Kapselgehörschutz als lärmreduzierende und lernförderliche Intervention"* in der Schule und im Unterricht.** | ![](https://pawelkulawiak.github.io/kalli/KALLI.png){width="50%"} |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------+
+
+[![](images/kalli_poster.png){fig-align="left"}](https://pawelkulawiak.github.io/site/images/kalli_poster.png)
+
+Im Unterricht beobachten wir zunehmend, dass Schüler:innen mit sonderpädagogischem Förderbedarf einen [Kapselgehörschütz](https://www.deutschlandfunk.de/laermschutz-krachstopper-im-klassenzimmer-100.html) tragen. Die Kapselgehörschützer reduzieren den Umgebungslärm und werden z.B. in Einzelarbeitsphasen genutzt. Gegenwärtig gibt es kaum Studien zur lernförderlichen Wirkung von Kapselgehörschutz im Unterricht [@kulawiak2021]. In einer qualitativen Gruppendiskussion zeigte sich, dass angehende Lehrkräfte den Kapselgehörschutz überwiegend für Kinder mit ADHS empfehlen ([Kulawiak, preprint](https://www.researchgate.net/publication/357351708)). Allerdings gibt es auch Befunde zu lernförderlichen Wirkungen von Geräuschkulissen auf Schüler:innen mit ADHS [@söderlund2007], sodass lärmreduzierende Maßnahmen nicht zwangsläufig in Erwägung zu ziehen sind. Insgesamt wird vermutet, dass spezifische Geräuschkulissen eine kognitiv-aktivierende Wirkung auf Schüler:innen mit ADHS haben könnten. Somit stellen sich folgende Fragen:
+
+-   Für welche Zielgruppen (z.B. Schüler:innen mit ADHS) und bei welchen Geräuschkulissen sowie Lernaufgaben ist der Kapselgehörschutz effektiv bzw. ineffektiv?
+-   Profitieren Schüler:innen mit Aufmerksamkeitsdefizit und Hyperaktivität von Geräuschkulissen beim Lernen (Leseverständnisleistung) oder lohnt sich doch eher der Einsatz von lärmreduzierenden Maßnahmen?
+
+Experimentelle Studien im Klassensetting sind gegenwärtig in Vorbereitung. In einer *randomisierten Interventionsstudie* soll der Zusammenhang zwischen Leseverständnisleistung und Lärmbelastung unter Berücksichtigung des Einsatzes von Kapselgehörschutz untersucht werden. Hierbei soll eine *ökologisch valide* Erzeugung von Geräuschkulissen im Lernsetting erfolgen: Arbeitsgeräusche bei Gruppenarbeiten. Die einzelnen Schüler:innen bearbeiten während der Gruppenarbeiten einen Leseverständnistest (*Randomisierung*: Mit und ohne Einsatz von Kapselgehörschutz). Zusätzlich werden Aufmerksamkeitsdefizit und Hyperaktivität der Schüler:innen erfasst (*Lehrkraft-Urteil*). Somit soll eine Beurteilung der Wirksamkeit des Kapselgehörschutzes unter Berücksichtigung des ADHS-Status sowie unter Berücksichtigung der Geräuschkulisse erfolgen.
+
+[➽ Projektseite](https://pawelkulawiak.github.io/kalli/)
+
+**Erste Forschungsergebnisse**
+
+-   [➽ Systematische Literaturrecherche](https://doi.org/10.1080/2331186X.2021.1957530)
+-   [➽ Qualitative Gruppendiskussion](https://www.researchgate.net/publication/357351708)
+
+Bildnachweise: "[Students Learning](https://freepngimg.com/png/32793-students-learning-transparent-background)" von Scott Ward ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)) und "[Junge mit Kopfhörer](https://tscpl.org/parents/add-a-soundtrack-to-play-learning)" von Topeka & Shawnee County Public Library ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))
+
+### **Text-Mining-Inclusion**
+
++--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| ***Was liest und schreibt man über Inklusion?***                                                                                     | [![](https://pawelkulawiak.github.io/textmininginclusion/images/owl.png){width="100%"}](https://pawelkulawiak.github.io/textmininginclusion/) |
+|                                                                                                                                      |                                                                                                                                               |
+| ***Web-Scraping und Text-Mining mit R am Beispiel einer Online-Nachrichten- und Diskussionsseite für Lehrkräfte***                   | [➽ Projektseite](https://pawelkulawiak.github.io/textmininginclusion/)                                                                        |
+|                                                                                                                                      |                                                                                                                                               |
+| -   Auf welche Art und Weise wird das Thema Inklusion auf einer Online-Nachrichten- und Diskussionsseite für Lehrkräfte dargestellt? |                                                                                                                                               |
+|                                                                                                                                      |                                                                                                                                               |
+| -   Auf welche Art und Weise werden die Inhalte zum Thema Inklusion von der Leserschaft kommentiert und diskutiert?                  |                                                                                                                                               |
++--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+:::
