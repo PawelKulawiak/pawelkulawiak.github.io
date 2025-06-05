@@ -1,0 +1,10 @@
+/* css styles */
+b,strong {font-weight: 1000}
+
+i,em {font-style: italic}
+
+a { color: #C42FC3}
+
+table, tr, td, th {
+    border-style: hidden;
+}

@@ -2,10 +2,10 @@
 title: "Publikationen"
 ---
 
-## Publikationsliste
-
-Alle Publikationen finden Sie bei ResearchGate bzw. Google-Scholar (Logos bitte anklicken)
+Alle Publikationen finden Sie bei ResearchGate, Google-Scholar bzw. ORCID (Logos bitte anklicken)
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png){fig-align="left" width="8%"}](https://www.researchgate.net/profile/Pawel-Kulawiak/research)
 
 [![](https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png){fig-align="left" width="30%"}](https://scholar.google.de/citations?user=yS-MnEgAAAAJ&hl=de)
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ORCID_logo_with_tagline.svg/2880px-ORCID_logo_with_tagline.svg.png){fig-align="left" width="30%"}](https://orcid.org/0000-0001-5939-4380)

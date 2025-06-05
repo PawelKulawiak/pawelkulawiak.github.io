@@ -12,7 +12,12 @@ website:
         text: Forschung
       - Lebenslauf.qmd
       - Publikationen.qmd
+      - OER.qmd
       - Kontakt.qmd
+    right:
+      - icon: github
+        href: https://github.com/PawelKulawiak/
+        aria-label: GitHub
 
 format:
   html:
@@ -20,7 +25,8 @@ format:
     theme: lux
     css: styles.css
     toc: true
-    embed-resources: true
+    link-external-newwindow: true
 
-
+nocite: |
+  @*
 

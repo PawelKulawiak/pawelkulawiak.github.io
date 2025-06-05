@@ -2,19 +2,16 @@
 title: "Kontakt"
 ---
 
-📧 [kulawiak\@uni-potsdam.de](mailto:kulawiak@uni-potsdam.de)
+📧 [kulawiak.pawel\@uni-koeln.de](mailto:kulawiak.pawel@uni-koeln.de)
 
-🏫 [Universität Potsdam](https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/kulawiak)
-
+🏫 [Universität zu Köln – Zentrum für Lehrer:innenbildung](https://zfl.uni-koeln.de/) | [Graduiertenschule für Lehrer:innenbildung](https://zfl.uni-koeln.de/graduiertenschule) | [Quantitative Methodenberatung](https://zfl.uni-koeln.de/graduiertenschule/die-graduiertenschule-auf-einen-blick/team)
+ 
 ```{r}
 #| echo: false
 library(leaflet)
 
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=52.40735, lng=12.97531, popup=
-               "Universität Potsdam,
-             Institut für Inklusionspädagogik (Haus 31),
-             Karl-Liebknecht-Straße 24-25,
-             14476 Potsdam")
+  addMarkers(lat=50.9299, lng=6.91895, popup=
+               "Universität zu Köln – Zentrum für Lehrer:innenbildung – Graduiertenschule für Lehrer:innenbildung, Besuchsadresse: Immermannstraße 49, 50931 Köln")
 ```

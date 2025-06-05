@@ -1,0 +1,14 @@
+---
+title: "OER"
+---
+
+Open Educational Resources (OER)
+
+[Kompakte Rundum-Einführung in R](https://pawelkulawiak.github.io/rworkshop/)
+
+[Soziometrie und soziale Netzwerkanalyse in pädagogischen Kontexten mit R](https://uol.de/fileadmin/participate/OER_Materialien/OER_FK1_Soziometrie/Selbstlernkurs_Einfuehrung_Soziometrie_mit_R_2023-09-11.html?v=1694415859)
+
+[Quarto: Open-source scientific and technical publishing system. Anwendungsbeispiele für das ZfL](https://pawelkulawiak.github.io/quartozfl/)
+
+[Was liest und schreibt man über Inklusion? Web-Scraping und Text-Mining mit R am Beispiel einer Online-Nachrichten- und Diskussionsseite für Lehrkräfte](https://pawelkulawiak.github.io/textmininginclusion/)
+
