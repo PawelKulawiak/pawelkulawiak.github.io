@@ -1,4 +1,399 @@
 {
-    "sources": [],
+    "sources": [
+        {
+            "DOI": "10.1016/j.yebeh.2024.110157",
+            "URL": "http://dx.doi.org/10.1016/j.yebeh.2024.110157",
+            "author": [
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                },
+                {
+                    "family": "Poltz",
+                    "given": "Nadine"
+                },
+                {
+                    "family": "Bosch",
+                    "given": "Jannis"
+                },
+                {
+                    "family": "Dreesmann",
+                    "given": "Mona"
+                }
+            ],
+            "container-title": "Epilepsy & Behavior",
+            "id": "kulawiak2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025,
+                        2
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "110157",
+            "title": "Understanding teachers’ perspectives on students with epilepsy in Germany: A survey examining knowledge, experience, and affective, cognitive, and behavioral attitudes to inform teacher training",
+            "title-short": "Understanding teachers’ perspectives on students with epilepsy in Germany",
+            "type": "article-journal",
+            "volume": "163"
+        },
+        {
+            "DOI": "10.1080/2331186x.2021.1957530",
+            "URL": "http://dx.doi.org/10.1080/2331186X.2021.1957530",
+            "author": [
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                }
+            ],
+            "container-title": "Cogent Education",
+            "editor": [
+                {
+                    "family": "Schussler",
+                    "given": "Deborah"
+                }
+            ],
+            "id": "kulawiak2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "title": "Academic benefits of wearing noise-cancelling headphones during class for typically developing students and students with special needs: A scoping review",
+            "title-short": "Academic benefits of wearing noise-cancelling headphones during class for typically developing students and students with special needs",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1371/journal.pone.0240312",
+            "URL": "http://dx.doi.org/10.1371/journal.pone.0240312",
+            "author": [
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                },
+                {
+                    "family": "Wilbert",
+                    "given": "Jürgen"
+                },
+                {
+                    "family": "Schlack",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Börnert-Ringleb",
+                    "given": "Moritz"
+                }
+            ],
+            "container-title": "PLOS ONE",
+            "editor": [
+                {
+                    "family": "Slobodskaya",
+                    "given": "Helena R."
+                }
+            ],
+            "id": "kulawiak2020",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "e0240312",
+            "title": "Prediction of child and adolescent outcomes with broadband and narrowband dimensions of internalizing and externalizing behavior using the child and adolescent version of the Strengths and Difficulties Questionnaire",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.3389/feduc.2024.1430959",
+            "URL": "http://dx.doi.org/10.3389/feduc.2024.1430959",
+            "author": [
+                {
+                    "family": "Vösgen-Nordloh",
+                    "given": "Meike"
+                },
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                },
+                {
+                    "family": "Bolz",
+                    "given": "Tijs"
+                },
+                {
+                    "family": "Koomen",
+                    "given": "Helma M. Y."
+                },
+                {
+                    "family": "Hennemann",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Leidig",
+                    "given": "Tatjana"
+                }
+            ],
+            "container-title": "Frontiers in Education",
+            "id": "vösgen-nordloh2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        11,
+                        25
+                    ]
+                ]
+            },
+            "title": "Why not ask them? A systematic scoping review of research on dyadic teacherstudent relationships as perceived by students with emotional and behavioral problems",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1007/978-3-662-55377-0_2",
+            "URL": "http://dx.doi.org/10.1007/978-3-662-55377-0_2",
+            "author": [
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                },
+                {
+                    "family": "Wilbert",
+                    "given": "Jürgen"
+                }
+            ],
+            "id": "kulawiak2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        10,
+                        17
+                    ]
+                ]
+            },
+            "language": "de",
+            "page": "17-31",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Komplementäre Studiendesigns zur Evidenzbasierung in der Bildungswissenschaft",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.3389/feduc.2020.00032",
+            "URL": "http://dx.doi.org/10.3389/feduc.2020.00032",
+            "author": [
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                },
+                {
+                    "family": "Urton",
+                    "given": "Karolina"
+                },
+                {
+                    "family": "Krull",
+                    "given": "Johanna"
+                },
+                {
+                    "family": "Hennemann",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Wilbert",
+                    "given": "Jürgen"
+                }
+            ],
+            "container-title": "Frontiers in Education",
+            "id": "kulawiak2020a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        17
+                    ]
+                ]
+            },
+            "title": "Internalizing behavior of sociometrically neglected students in inclusive primary classrooms  a methodological issue?",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1080/00220272.2024.2312391",
+            "URL": "http://dx.doi.org/10.1080/00220272.2024.2312391",
+            "author": [
+                {
+                    "family": "Rauterkus",
+                    "given": "H."
+                },
+                {
+                    "family": "Hennemann",
+                    "given": "T."
+                },
+                {
+                    "family": "Hagen",
+                    "given": "T."
+                },
+                {
+                    "family": "Krull",
+                    "given": "J."
+                },
+                {
+                    "family": "Nitz",
+                    "given": "J."
+                },
+                {
+                    "family": "Eiben",
+                    "given": "K."
+                },
+                {
+                    "family": "Kulawiak",
+                    "given": "P. R."
+                },
+                {
+                    "family": "Verbeck",
+                    "given": "L."
+                },
+                {
+                    "family": "Hanisch",
+                    "given": "C."
+                }
+            ],
+            "container-title": "Journal of Curriculum Studies",
+            "id": "rauterkus2024",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "468-479",
+            "title": "Teachers’ ability to regulate their emotions predicts their levels of stress in primary schools in Germany",
+            "type": "article-journal",
+            "volume": "56"
+        },
+        {
+            "DOI": "10.3389/feduc.2020.598330",
+            "URL": "http://dx.doi.org/10.3389/feduc.2020.598330",
+            "author": [
+                {
+                    "family": "Wilbert",
+                    "given": "Jürgen"
+                },
+                {
+                    "family": "Urton",
+                    "given": "Karolina"
+                },
+                {
+                    "family": "Krull",
+                    "given": "Johanna"
+                },
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                },
+                {
+                    "family": "Schwalbe",
+                    "given": "Anja"
+                },
+                {
+                    "family": "Hennemann",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Frontiers in Education",
+            "id": "wilbert2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11,
+                        26
+                    ]
+                ]
+            },
+            "title": "Teachers’ accuracy in estimating social inclusion of students with and without special educational needs",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1080/1743727x.2019.1621830",
+            "URL": "http://dx.doi.org/10.1080/1743727X.2019.1621830",
+            "author": [
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                },
+                {
+                    "family": "Wilbert",
+                    "given": "Jürgen"
+                }
+            ],
+            "container-title": "International Journal of Research & Method in Education",
+            "id": "kulawiak2019",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        29
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "127-145",
+            "title": "Introduction of a new method for representing the sociometric status within the peer group: the example of sociometrically neglected children",
+            "title-short": "Introduction of a new method for representing the sociometric status within the peer group",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "DOI": "10.35468/6178-07",
+            "URL": "http://dx.doi.org/10.35468/6178-07",
+            "author": [
+                {
+                    "family": "Zdoupas",
+                    "given": "Philippos"
+                },
+                {
+                    "family": "Vösgen-Nordloh",
+                    "given": "Meike"
+                },
+                {
+                    "family": "Kulawiak",
+                    "given": "Pawel R."
+                }
+            ],
+            "id": "zdoupas2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025,
+                        6
+                    ]
+                ]
+            },
+            "publisher": "Verlag Julius Klinkhardt",
+            "title": "Subjektives schulisches wohlbefinden in inklusiven schulen im spannungsfeld zwischen sonderpädagogischem unterstützungsbedarf und psychosozialen problemen",
+            "type": "chapter"
+        }
+    ],
     "project_biblios": []
 }
