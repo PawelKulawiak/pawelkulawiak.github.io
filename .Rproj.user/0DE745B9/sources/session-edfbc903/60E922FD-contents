@@ -4,6 +4,8 @@ title: "OER"
 
 ***Open Educational Resources (OER)***
 
+[Willkommensklassen evaluieren und erforschen](https://grad-edu.shinyapps.io/welcomeclass/)
+
 [Kompakte Rundum-Einführung in R](https://pawelkulawiak.github.io/rworkshop/)
 
 [Einführung in statistische Verfahren mit jamovi](https://pawelkulawiak.github.io/jamoviintro/)
@@ -15,6 +17,10 @@ title: "OER"
 [3-in-1-Workshop: Einführung in Korrelation, Regression und Multilevel-Analyse mit R](https://pawelkulawiak.github.io/3in1/)
 
 [Wie kann ich die Repräsentativität meiner Stichprobe beurteilen?](https://pawelkulawiak.github.io/representative/)
+
+[Inferenzstatistik für Anfänger:innen: Statistische Signifikanz, p-Werte und Konfidenzintervalle richtig interpretieren](https://grad-edu.shinyapps.io/inference/)
+
+[Simulationsbasierte Inferenzstatistik: Simulation statt Fehlinterpretation (Bootstrap und Permutation)](https://grad-edu.shinyapps.io/siminference/)
 
 [Was liest und schreibt man über Inklusion? Web-Scraping und Text-Mining mit R am Beispiel einer Online-Nachrichten- und Diskussionsseite für Lehrkräfte](https://pawelkulawiak.github.io/textmininginclusion/)
 
